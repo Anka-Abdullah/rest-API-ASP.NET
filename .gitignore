@@ -1,0 +1,15 @@
+bin
+obj
+.vs
+.vscode
+*.user
+publish
+logs
+*upload
+generated*
+src/.vscode
+*.env
+.idea
+.sonarqube
+src/CMS/wwwroot/TempUpload/*
+ 
